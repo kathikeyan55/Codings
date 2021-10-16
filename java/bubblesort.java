@@ -21,10 +21,10 @@ public class bubblesort{
         int temp=a;
         a=b;
         b=temp;
-        fsfdsfdffsssssfdsfdfssfdsf
-        dfdfdsf
-        sfsd
-        fdsf
+//         fsfdsfdffsssssfdsfdfssfdsf
+//         dfdfdsf
+//         sfsd
+//         fdsf
     }
      
 }
