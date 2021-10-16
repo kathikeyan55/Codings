@@ -22,6 +22,7 @@ public class bubblesort{
         a=b;
         b=temp;
     }
+    // very data is addd noew tow some thsing
 // try untill success
 // just impove you coding.
 // i will chech git pull woriking    
